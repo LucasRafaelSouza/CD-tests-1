@@ -1,1 +1,2 @@
-Code Guide Ruby
+Code Guide R
+RUBY CODE GUIDE
